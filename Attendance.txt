@@ -1,4 +1,4 @@
 studentID : 2413110020
 studentName : Natthakorn Ouicharen
-topic : Labsheet#2 : Control Statements andDialog bax
+topic :Control Statements andDialog bax
 Date : 12/4/2024
