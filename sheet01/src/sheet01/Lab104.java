@@ -1,8 +1,8 @@
 package sheet01;
 import javax.swing.*;
-
+ 
 public class Lab104 {
-
+ 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		JOptionPane.showMessageDialog(null, "Welcome to the payroll application", "Message", JOptionPane.INFORMATION_MESSAGE);
@@ -22,5 +22,5 @@ public class Lab104 {
 	   
 	   JOptionPane.showMessageDialog(null, message, "Message", JOptionPane.INFORMATION_MESSAGE);
 	}
-
+ 
 }
