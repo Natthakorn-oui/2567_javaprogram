@@ -1,4 +1,4 @@
 studentID : 2413110020
 studentName : Natthakorn Ouicharen
-topic :String method
-Date : 12/11/2024
+topic : Array and Array Method
+Date : 12/25/2024
