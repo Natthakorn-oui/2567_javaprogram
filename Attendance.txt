@@ -1,4 +1,4 @@
 studentID : 2413110020
 studentName : Natthakorn Ouicharen
-topic : Encapsulation Concept
-Date : 1/22/2025
+topic : Array Object, Composition Concept
+Date : 1/29/2025
